@@ -3,6 +3,7 @@
 Paste content below the `---` into:
 - **Claude Code:** `~/.claude/CLAUDE.md`
 - **Kilo Code:** save to `~/.config/kilo/system-prompt.md`, then add to `instructions` in `~/.config/kilo/kilo.jsonc`
+- **Codex CLI:** `~/.codex/AGENTS.md` (or `~/.codex/AGENTS.override.md` for temporary overrides)
 - **Other:** the harness's global instructions field
 
 If your harness already enforces a rule below, delete the duplicate.
